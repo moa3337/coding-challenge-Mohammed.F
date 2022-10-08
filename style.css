@@ -1,0 +1,80 @@
+body {
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 20px;
+}
+
+.logodiv{
+  padding-top: 100px;
+  padding-left: 420px;
+  padding-right: 400px;
+}
+
+img{
+  height: 80px;
+}
+
+.container{
+  background-color: rgba(0,0,0,0.4);
+  border-radius: 10px;
+  width: 1000px;
+  height: 700px;
+  margin: auto;
+}
+
+.title{
+  color: #06FE40;
+  text-align: center;
+}
+
+.greenbar{
+  height: 40px;
+  background-color: #06FE40;
+  margin: 0px 50px 20px 50px;
+
+}
+
+.buttons{
+  padding-top: 10px;
+  text-align: center;
+}
+
+.monopattino{
+  width: 270px;
+  color: white;
+  padding: 0px 50px;
+}
+
+.orangebar{
+  height: 25px;
+  border-radius: 3px;
+  width: 270px;
+  background-color: orange;
+  margin-bottom: 25px;
+}
+
+.greenbar2{
+  height: 25px;
+  border-radius: 3px;
+  width: 500px;
+  background-color: green;
+  margin-bottom: 25px;
+
+}
+.redbar{
+  height: 25px;
+  border-radius: 3px;
+  width: 120px;
+  background-color: red;
+  margin-bottom: 25px;
+
+}
+
+.addressLine{
+  font-size: 24px;
+}
+
+p{
+  margin: 5px;
+}
